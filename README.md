@@ -1,4 +1,4 @@
-<img width="1524" height="884" alt="Screenshot (246)" src="https://github.com/user-attachments/assets/ceb49c69-8ac1-4d46-a522-3b84baf54150" /># 🔍 IBTAC Lexical Analyzer
+# 🔍 IBTAC Lexical Analyzer
 
 [![Python](https://img.shields.io/badge/Python-3.8+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![Gradio](https://img.shields.io/badge/Gradio-Web_UI-FF4B4B?style=for-the-badge&logo=gradio&logoColor=white)](https://gradio.app/)
